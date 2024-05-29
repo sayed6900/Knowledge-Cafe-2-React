@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://picsum.photos/200/300?random=1",
+      "author_name": "John Doe",
+      "author_pic": "https://randomuser.me/api/portraits/men/1.jpg",
+      "title": "Lorem Ipsum",
+      "hashtag": ["fiction", "novel", "LoremIpsum"],
+      "posted_date": "2024-04-16",
+      "reading_time": 10
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://picsum.photos/200/300?random=2",
+      "author_name": "Jane Smith",
+      "author_pic": "https://randomuser.me/api/portraits/women/2.jpg",
+      "title": "Dolor Sit Amin",
+      "hashtag": ["fiction", "short story", "DolorSitAmen"],
+      "posted_date": "2024-04-15",
+      "reading_time": 5
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://picsum.photos/200/300?random=3",
+      "author_name": "Alex Johnson",
+      "author_pic": "https://randomuser.me/api/portraits/men/3.jpg",
+      "title": "Consectetur Adipinto",
+      "hashtag": ["fiction", "essay", "ConsecteturAdi"],
+      "posted_date": "2024-04-14",
+      "reading_time": 8
+    }
+  ]
+  
